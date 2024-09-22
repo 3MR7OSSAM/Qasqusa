@@ -15,9 +15,9 @@ Welcome to **Qasqusa**, a Flutter-based mobile application designed to captivate
 
 ## Screenshots
 
-![WhatsApp_Image_2024-08-30_at_11 45 13_PM_(1)_upscaled](https://github.com/user-attachments/assets/581c194f-401b-42e1-89e8-f716ef17b010)
-![WhatsApp_Image_2024-08-30_at_11 45 13_PM_(2)_upscaled](https://github.com/user-attachments/assets/1861096b-d809-43fb-b1a6-dd3b6fa0a125)
-![WhatsApp_Image_2024-08-30_at_11 45 13_PM_upscaled](https://github.com/user-attachments/assets/a6ad0409-6a9a-459d-ad42-a4e97b14b493)
+![WhatsApp_Image_2024-08-30_at_11 45 13_PM_(1)_upscaled](https://github.com/user-attachments/assets/6eebc98e-24ca-4a25-ba47-7496be565cf6)
+![WhatsApp_Image_2024-08-30_at_11 45 13_PM_(2)_upscaled](https://github.com/user-attachments/assets/3b714e3b-a843-40c2-80df-76fefd63f68e)
+![WhatsApp_Image_2024-08-30_at_11 45 13_PM_upscaled](https://github.com/user-attachments/assets/4737059e-555a-4790-92b1-6152cfe788b6)
 
 ## Getting Started
 
