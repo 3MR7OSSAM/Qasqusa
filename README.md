@@ -14,10 +14,10 @@ Welcome to **Qasqusa**, a Flutter-based mobile application designed to captivate
 - 🌙 **Interactive and Fun**: Qasqusa is designed to entertain and engage children with creative and imaginative stories.
 
 ## Screenshots
-
+![WhatsApp_Image_2024-08-30_at_11 45 13_PM_upscaled](https://github.com/user-attachments/assets/4737059e-555a-4790-92b1-6152cfe788b6)
 ![WhatsApp_Image_2024-08-30_at_11 45 13_PM_(1)_upscaled](https://github.com/user-attachments/assets/6eebc98e-24ca-4a25-ba47-7496be565cf6)
 ![WhatsApp_Image_2024-08-30_at_11 45 13_PM_(2)_upscaled](https://github.com/user-attachments/assets/3b714e3b-a843-40c2-80df-76fefd63f68e)
-![WhatsApp_Image_2024-08-30_at_11 45 13_PM_upscaled](https://github.com/user-attachments/assets/4737059e-555a-4790-92b1-6152cfe788b6)
+
 
 ## Getting Started
 
